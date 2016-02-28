@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "This is an ecommerce website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veereshk21/amazon_clone.git"
+  },
+  "author": "veeresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veereshk21/amazon_clone/issues"
+  },
+  "homepage": "https://github.com/veereshk21/amazon_clone#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "ejs-mate": "^2.3.0",
+    "mongoose": "^4.4.5",
+    "morgan": "^1.7.0"
+  }
+}
